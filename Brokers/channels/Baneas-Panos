@@ -1,0 +1,19 @@
+{
+    "subscribers": [
+        "Baneas",
+        "Panos"
+    ],
+    "messages": [
+        {
+            "type": "Text",
+            "user": "Panos",
+            "content": "Hello!"
+        },
+        {
+            "type": "Text",
+            "user": "Baneas",
+            "content": "Ti leei?"
+        }
+    ],
+    "name": "Baneas-Panos"
+}

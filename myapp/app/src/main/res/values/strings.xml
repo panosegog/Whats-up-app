@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">myapp</string>
+    <string name="title_profile_select">Select profile</string>
+    <string name="title_sending_media">Sending media file</string>
+    <string name="hint_username">Username</string>
+    <string name="button_login">Log in</string>
+    <string name="description_avatar">Avatar</string>
+    <string name="description_button_send">Send</string>
+    <string name="description_image">Published image</string>
+    <string name="description_video">Published video</string>
+    <string name="description_pick_file">Pick media file</string>
+    <string name="hint_message">Type your message here</string>
+</resources>
